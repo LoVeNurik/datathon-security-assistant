@@ -1,0 +1,6 @@
+data_raw/
+data_clean/
+*.prompt
+*.csv
+.ipynb_checkpoint/
+__pycache__/
